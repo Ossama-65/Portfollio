@@ -8,4 +8,13 @@
   .block-resp {
     width: 100%;
   }
+
+  .menu {
+    display: none;
+  }
+
+  .largeur1 {
+    width: 430px;
+  }
+ 
 }
